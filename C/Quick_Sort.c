@@ -40,7 +40,7 @@ void printArray(int arr[], int size) {
     printf("\n");
 }
 
-// Main FUnction
+//Main FUnction
 int main() {
     int n;
 
